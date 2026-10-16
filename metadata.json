@@ -1,0 +1,6 @@
+{
+  "name": "The Lost Meridian - Cinematic 3D Adventure Game",
+  "description": "A photorealistic first-person 3D archaeological adventure into an ancient jungle civilization powered by Three.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
